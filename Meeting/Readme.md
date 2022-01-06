@@ -26,17 +26,27 @@
 > 
 ![image](https://user-images.githubusercontent.com/63999666/148013204-a907d507-9ac6-4942-87ae-5463fb75f7b4.png)
 
-### 20222.01.05 project meeting 
+### 20222.01.06 project meeting 
 
 
 
 >교수님 말씀 요약 : 특정하게 어디서 측정할건지, 데이터 구체적으로 설계하라고 했고, 아마존에서 센서 구입. 
 가장 깨끗한 공기랑 비교하고 분석하는거. 
 
-### 2022.01.06 목요일 
+교수님 이메일 : ahsmith@purdue.edu
+CIT346 T. Th 12 ~ 1:15 pm 
+intro to wireless 
+
+참고 사이트: organ natural / waggle stack 
+https://www.nature.org/en-us/about-us/where-we-work/united-states/oregon/
+
+
 
 1. 프로젝트 구체화 필요함. 
-2. 프로젝트 필요한 지식 및 내용 구체화 ( 개발 과정, 필요한 센서, 로드맵) 
-3. 공기질 IOT 센서 구매  
+> 터널을 지날때, 주차장 먼지가 많은지, 유치원 -> disabled 천식환자 (asthma patient) -> 공기질 센서로 공기가 안좋은 천식환자에게 signal을 제공한다. 
+> - 가설 검증 질문 : 천식환자가 공기질에 유의미한 연관관계가 있는가? 
+
+3. 프로젝트 필요한 지식 및 내용 구체화 ( 개발 과정, 필요한 센서, 로드맵) 
+4. 공기질 IOT 센서 구매  
 
 
