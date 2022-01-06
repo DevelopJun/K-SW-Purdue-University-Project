@@ -25,3 +25,18 @@
 > Air Quality IoT SW schematic diagram
 > 
 ![image](https://user-images.githubusercontent.com/63999666/148013204-a907d507-9ac6-4942-87ae-5463fb75f7b4.png)
+
+### 20222.01.05 project meeting 
+
+![image](https://user-images.githubusercontent.com/63999666/148403207-7bdc8661-1860-4c7b-9153-1d06ea2ab9cc.png)
+
+>교수님 말씀 요약 : 특정하게 어디서 측정할건지, 데이터 구체적으로 설계하라고 했고, 아마존에서 센서 구입. 
+가장 깨끗한 공기랑 비교하고 분석하는거. 
+
+
+1.
+2.
+3.
+4.
+
+
