@@ -1,5 +1,12 @@
 # K-SW-Purdue-University-Project
-Air Quality and Environmental system
+## Air Quality and Environmental system
+
+- Overall description / summary of the project
+> 센서는 미세먼지 센서, 온습도 센서, 센서 1개 더 추가할 부분 추가하고, LCD로 바로 보여주는 것이 아닌, 
+> wifi 쉴드가 결합된 제품으로 별도의 모듈 연결 없이 무선 인터넷 통신이 가능한 제품을 사용. 
+
+
+<br>
 
 ---
 
