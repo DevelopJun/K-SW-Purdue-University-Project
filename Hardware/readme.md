@@ -1,4 +1,4 @@
-## hard
+## hardware
 ### 아두이노와 라즈베리파이의 차이점 
 
 > 아두이노(Arduino)와 라즈베리파이(Raspberrypi)의 비교 분석
