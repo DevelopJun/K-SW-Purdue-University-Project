@@ -12,7 +12,7 @@
 
 ## arduino IOT fine dust project
 > 미세먼지 정의가 대기 중에 떠다니거나 흩날려 내려오는 입자상 물질로 입자크기가 10마이크로미터 이하인 미세먼지(PM10), 2.5 마이크로미터 이한인 초 미세 먼지 (PM 2.5)라고 한다. 
-### 미세먼지 측정 센서 
+### 미세먼지 측정 센서 (참조)
 > - PMS7003 센서 
 > 
 > PM7003 미세먼지 센서는 Plantower사에서 제작, 판매하는 레이저 방식의 미세먼지 측정 센서이다.2.5(초미세먼지)를 안정적으로 측정할 수 있고, 크기도 작기 때문에 시중에서 판매되는 미세먼지 간이 측정기에 널리 사용되고 있음. 
@@ -36,15 +36,24 @@
 > - ##### MH-219B 센서 (구매 예정)
 > 
 > MH-219B 센서는 실내 공기질 모니터링에 많이 사용된다. (공기 청정기 효과를 높이기 위해 문과 창문을 꽉 닫으면 환기가 되지 않아, 미세먼지 농도는 감소해도 이산화탄소 농도가 올라간다. 공기청정기만 믿고 환기를 안시키면 오히려 이산화탄소가 인체에 나쁜 영향을 줄 수 있다. )
+
+# 무선 전송 통신 시스템 구현 hardware (참조)
+> - R.Box는 라즈베리파이 기반을 만들어진 다양한 센서로 구성되어 있는 IOT 허브로, 데비안 리눅스 기반으로 만들어진 Raspbian OS를 사용한다. 아두이노가 미세먼지센서에서 측정한 데이터를 wifi 를 통해 R.Box로 
 > 
+
 # 회로 설계 및 케이스 제작 (3D 프린터) 
 > 케이스 제작을 어떻게 할건지 생각해 봐야함. 
-> 
-> 또한 I2C LCD 모듈을 구매할건지, 어떻게 이 정보를 주고 받을건지 구채화 해봐야함. 
 
 ---
+참고자료(reference) 
+
 ![image](https://user-images.githubusercontent.com/63999666/148562803-8fb0b902-03e4-4b73-809e-6f1a9e0a70c8.png)
 
 http://beesl.csbr.re.kr/wp-content/uploads/sites/3/2019/06/%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7-%EA%B8%B0%EB%B0%98-%EC%8B%A4%EB%82%B4%ED%99%98%EA%B2%BD-%EC%B8%A1%EC%A0%95-%EC%84%BC%EC%84%9C-%EB%AA%A8%EB%93%88-%EA%B0%9C%EB%B0%9C.pdf
 <br>
 중앙대학교 논문 참조
+
+![image](https://user-images.githubusercontent.com/63999666/148566417-8bb89ecd-05a1-402a-95aa-79ad3d892298.png)
+https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=CFKO201831342440545&oCn=NPAP12689473&dbt=CFKO&journal=NPRO00377597
+<br> 
+학술논문지 논문 참조 
