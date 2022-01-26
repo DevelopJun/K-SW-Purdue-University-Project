@@ -12,3 +12,6 @@
 ##### IEEE guidance 
 - https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf
  
+ ## 참조 논문  (reference)
+ - https://www.bigdata-map.kr/datastory/new/story_10
+- https://blog.naver.com/withairfeel/221554958710
