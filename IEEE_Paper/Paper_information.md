@@ -19,3 +19,4 @@
 - http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002190373
 - https://www.koreascience.or.kr/article/CFKO201735553777368.pdf (실내 환경 아두이노 관련 논문) 
 - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002182102 (수원시 유치원 논문) 
+- https://www.sciencedirect.com/science/article/pii/S1877050914009454
