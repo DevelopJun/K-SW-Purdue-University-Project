@@ -1,16 +1,16 @@
 ## Daily Schedule
 <br>
 
->오전 9시 30분 ~ 오전 10시 30분 오전 회의
+> 9:30 a.m. - 10:30 a.m. meeting.
 >
-> 오전 10시 30분 ~ 점심 -> 각자 프로젝트 진행 
-> 
-> 점시시간 
-> 
-> 오후 1시 30분 ~ 오후 2시 30분 -> 오후 회의
-> 
-> 오후 2시 30분 ~ 오후 4시 30분 -> 각자 프로젝트 진행 
-> 
-> 하루 프로젝트 업무량 체크 및 보고 업로드 
+> 10:30am~ Lunch -> Individual projects.
+>
+> Lunch time.
+>
+> 1:30 PM - 2:30 PM -> Afternoon meeting.
+>
+> 2:30 PM - 4:30 PM -> Individual projects.
+>
+> Check and report daily project workload and upload.
 
 <br>
