@@ -1,5 +1,19 @@
 ## IEEE paper 관련 사항 
 
+### How to write a paper 
+0. Title 
+1. Abstraction 
+2. Introductions
+3. Related Works(Literature Review) 
+> 주제에 맞는 논문 인용이 중요하며, 논문 인용 후 비평이 반드시 들어가야 함 ( -> 그래서 본 연구가 필요함을 주장) 
+5. Proposer Methodology (Materials and Methods) 
+6. Experiment Results 
+7. Discussion
+8. Conclusion (and Future Work)
+9. References 
+
+<br>
+
 ##### 논문 작성 사이트 
 - https://www.overleaf.com/project
 
