@@ -1,16 +1,18 @@
 ## IEEE paper 관련 사항 
 
 ### How to write a paper 
-0. Title 
-1. Abstraction 
-2. Introductions
-3. Related Works(Literature Review) 
+##### 0. Title 
+##### 1. Abstraction 
+##### 2. Introductions
+##### 3. Related Works(Literature Review) 
 > 주제에 맞는 논문 인용이 중요하며, 논문 인용 후 비평이 반드시 들어가야 함 ( -> 그래서 본 연구가 필요함을 주장) 
-5. Proposer Methodology (Materials and Methods) 
-6. Experiment Results 
-7. Discussion
-8. Conclusion (and Future Work)
-9. References 
+##### 4. Proposer Methodology (Materials and Methods) 
+>  기본적으로 Methods는 연구 대상과 변수를 선택한 이유, 이를 처리하거나 관찰한 방법, 데이터를 수집한 방법과 얻은 정보를 분석한 방법을 포함해야 함. 육하원칙 (누가, 무엇을, 언제, 어디서, 어떻게, 왜)에 근거하여 Methods를 작성하는 것이 더 명확한 Methods를 작성하는 데 도움이 될 수 있음. 또한, 모든 연구 과정을 전부 작성할 필요는 없지만, 다른 연구원들이 여러분의 실험을 재현하기 위해 필요한 실험 과정 및 방법은 꼭 포함되어야 함.
+- (참고사이트) https://blog.essayreview.co.kr/%EA%B3%BC%ED%95%99-%EB%85%BC%EB%AC%B8%EC%9D%98-methods-%EB%B6%80%EB%B6%84%EC%9D%84-%EC%93%B0%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%8C%81/
+##### 5. Experiment Results 
+##### 6. Discussion
+##### 7. Conclusion (and Future Work)
+##### 8. References 
 
 <br>
 
