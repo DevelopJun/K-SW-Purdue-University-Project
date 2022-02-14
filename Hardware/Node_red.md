@@ -5,3 +5,9 @@
 
 - 라즈베리파이에서 모니터를 연결시키거나, GUI 모드를 사용한다면 프로그램에서 Node-RED 를 찾아 실행시키면 된다. 
 - 원격으러 Node-RED 이용한다, 라즈베리파이 SSH 허용 
+- 하드웨어 장치들, API, 온라인 서비스를 사물 인터넷 일부로 와이어링(배선화)시키기 위해본래 IBM이 개발한 시각 프로그래밍을 위한 플로 기반 개발 도구이다. 
+- #####  쉽게 말해서 Node.js 위에서 사용되고 보여지는 개발도구(시각화된 개발도구)이다. 
+
+ ![image](https://user-images.githubusercontent.com/63999666/153798970-34e390aa-438d-4af9-ba81-6aa35ef1961d.png)
+
+(사진 원본 출처) https://roomconerdeveloper.tistory.com/33
