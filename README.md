@@ -22,23 +22,27 @@
 >**therefore, we compare major indoor air pollutants and factor data provided by the Environmental Protection Agency (EPA) with data measured directly in the actual indoor environment to see how much difference there is,between external air data provided by countries or institutions and actual indoor air data.**
 
 
-📖 *Considerations*
+## 📖 Considerations
+### 💻 Software Architecture : 
+#### 1) Node-Red
 
-    💻 Software Architecture : 
-    1) Node-Red
-    It is a flow-based development tool for wiring and visualizing hardware devices as part of the Internet of Things. 
-    This program can use JavaScript language, which was used because developers who participated in this study can use JavaScript and it is convenient to extract file data in the form of JSON.
+It is a flow-based development tool for wiring and visualizing hardware devices as part of the Internet of Things. 
+This program can use JavaScript language, which was used because developers who participated in this study can use JavaScript and it is convenient to extract file data in the form of JSON.
     
-    2) Arduino Integrated development environment
-    The Arduino integrated development environment is a development environment provided to users for Arduino programming. 
-    In this study, data values were uploaded without using wireless communication in the form of LAN. When the Arduino MCU was executed, the required value was delivered to UART communication.
+#### 2) Arduino Integrated development environment
+
+The Arduino integrated development environment is a development environment provided to users for Arduino programming. 
+In this study, data values were uploaded without using wireless communication in the form of LAN. When the Arduino MCU was executed, the required value was delivered to UART communication.
     
-    3) Jupyter notebook
-    Jupiter Laptop is an open source-based web application. It was used because visualization should be performed in each unit by comparing and analyzing indoor air measurement data and outdoor air public data.
+#### 3) Jupyter notebook
+
+Jupiter Laptop is an open source-based web application. It was used because visualization should be performed in each unit by comparing and analyzing indoor air measurement data and outdoor air public data.
         
-    📡 Hardware Architecture : 
-    Hardware basically used aurduino uno rev3(2) , pms 5003 (fine dust sensor), dht 11 (temperature and humidity sensor), mq2 (gas sensor), and mq131 (gas sensor). 
-    The sensor selection criteria consisted of sensors capable of extracting external air components provided by EPA, and two Arduinoes were used due to the research characteristics in which relatively many sensors were used.
+### 📡 Hardware Architecture : 
+
+Hardware basically used aurduino uno **rev3(2) , pms 5003 (fine dust sensor), dht 11 (temperature and humidity sensor), mq2 (gas sensor), and mq131 (gas sensor).**
+
+The sensor selection criteria consisted of sensors capable of extracting external air components provided by EPA, and two Arduinoes were used due to the research characteristics in which relatively many sensors were used.
 
 
 
