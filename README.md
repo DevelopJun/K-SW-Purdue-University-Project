@@ -2,7 +2,7 @@
 
 Your README.md file must include:
 
-(1) Group members name including all Purdue students: e.g., Minji Lee  
+(1) Group members name including all Purdue students: 
 (2) Group members univ info: e.g., Purdue University  
 (3) Project title  
 (4) Research problem statement(s)  
