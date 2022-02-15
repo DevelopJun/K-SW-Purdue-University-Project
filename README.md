@@ -120,46 +120,23 @@
     $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
     $ cd thomas
 
-👨 👩 👧 👧 *Collaborator*
+🎅 👦 👩 *Collaborator*
      
-    👩 💻Yujung Gil
-       -Dongguk Univeristy
-       -Major in Computer Science Engineering
-       -kuj9628@naver.com
-       -https://github.com/fairyroad
+    🎅Junho Jung
+       -Yonsei Univeristy
+       -Major: Computer Engineering & Venture
+       -email: llovejune@yonsei.ac.kr
+       -github: https://github.com/DevelopJun
        
-    🎅🏻Minjeong Kim
-       -Dongguk University
-       -Major in Computer Science Engineering
-       -kimmin9624@dgu.ac.kr
-       -https://github.com/kimminje0ng
-      
-    👰Jiho Park
-       -Dongguk University
-       -Major in Computer Science Engineering
-       -2017112091@dgu.ac.kr
-       -https://github.com/zihos
-       
-    👩 🚀Bryan Supinski
-       -Purdue University
-       -Major in CNIT
-       -bryansupinski@gmail.com
-       -https://github.com/dplok1
+    👦DuYong Chung
+       -Yonsei Univeristy
+       -Major: Computer Engineering & Venture
+       -email: endyd4@yonsei.ac.kr
+       -github: ttps://github.com/Yondubuntu
     
-    👨🏻 🦱Damien Pham
-       -Purdue University
-       -Major in CNIT
-       -minhduypham0210@gmail.com
-       -https://github.com/damien7749
-    
-    👨🏻 💼Max Li
-       -Purdue University
-       -Major in CNIT
-       -maxli32145@gmail.com
-    
-    🧔🏻Parker Alexander
-       -Purdue University
-       -Major in CNIT
-       -carmelo15andonly@gmail.com 
+    👩DuYong Chung
+       -Yonsei Univeristy
+       -Major:
+       -email:
+       -github: https://github.com/Maxim-afk
 
-[1] Open Source WiFi, Linux Appliance, Dragino. Accessed on: December 02, 2021. [Online]. Available: [Dragino](https://dragino.com/)
