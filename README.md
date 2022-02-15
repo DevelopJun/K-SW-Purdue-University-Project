@@ -1,4 +1,4 @@
-# 📉 2021 Purdue Data Analysis Project by TEAM_eco_Avengers 📈
+# 📉 2021 Purdue Data Analysis Project by TEAM_Eco_Avengers 📈
 
 <br> 
 
@@ -12,17 +12,21 @@
 
 🧖🏻 ♀️ *Problem Statement*
     
-    The United States has more than 1200 tornadoes per year and almost the highest number of tornadoes in the world. 
-    
-    Especially, these tornadoes incidences mostly occur in the plains region of the US.
-    The tornado occurence area coincides with a large amount of cropland. When such a natural disaster occurs
-    the power is cut off, causing a large-scale blackout, and this is not just a problem in cities. 
-    
-    Recently, as smart farms are created by combining agriculture with IoT, most of the farm work is becoming automated.
-    In this situation, if the electricity is cut off, the operation of automation technology of the smart farm will be damaged,
-    and the crops will dry while waiting for someone to come and water them.
-    
-    Therefore, a system that can respond flexibly during a disaster until power is restored is needed. 
+     Air pollution, such as yellow dust and fine dust, is a problem that all countries and institutions are trying to solve in modern society. 
+     The importance of air quality is a fact that everyone knows well. In addition, the importance of air quality has become more prominent since the COVID-19 pandemic. 
+     The U.S. Centers for Disease Control and Prevention (CDC) officially recognizes air transmission as a major transmission route for COVID-19, and the World Health Organization (WHO) also includes air transmission as a COVID-19 transmission route.
+     
+     With the above importance, many people check outdoor air quality data (fine dust and ultrafine dust concentrations) provided by the government or provided by each institution every day before starting their daily routine. 
+     Nevertheless, it can be said that the general public's interest in indoor air quality is weaker than that of outdoor air quality.
+     
+     According to the U.S. Environmental Protection Agency, indoor air, where modern people live more than 80% to 90% of the day, 
+     is 100 times more polluted than outside air and a study also suggested that indoor air pollutants are 100 times more likely to be delivered to human lungs than air pollutants. 
+     The American Lung Association (ALA) also announced that indoor harmful substances are two to five times more than outdoor air and that there are cases of 100 times more harmful substances. 
+     Analysts say that various chemical components discharged from walls and furniture, beds, pillows, house dust, and dust caused by human movement are combined, polluting indoor air.
+     
+     therefore, we compare major indoor air pollutants and factor data provided by the Environmental Protection Agency (EPA) with data measured directly in the actual indoor environment to see how much difference there is,
+     between external air data provided by countries or institutions and actual indoor air data. 
+
 
 📖 *Considerations*
 
