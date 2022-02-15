@@ -62,8 +62,9 @@
 
 🏛 *System Overview*
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/74306759/144271084-069a0741-ccf7-49ea-bb41-d434c3f91bc3.png" alt="Image Error"/>
+   <img src="https://user-images.githubusercontent.com/63999666/154166528-e93b8a23-4c23-4725-984c-12118b8ab57a.png" width="700"alt="Image Error"/>
 </p>
+
     
     1. Tomatoes were planted in 4 areas, each with a soil moisture sensor and irrigation tube installed.
     
@@ -78,8 +79,9 @@
     6. The irrigation command arrives at the Arduino which operates the irrigation system.
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74306759/144274291-64dba80d-39dc-46a7-9f58-3fd98311f5b6.png" width="600" alt="Image Error"/>
+   <img src="https://user-images.githubusercontent.com/63999666/154166751-cda74f22-55d4-4fe7-9cee-dfaab4dcb1d2.png" width="600" alt="Image Error"/>
 </p>
+
 
     🥕Data Acquisition: In this part, soil moisture sensors acquire soil moisture values in tomato fields. The sensor is connected to the Arduino by a wire. 
     The soil moisture value is delivered as an integer type and 4 values are delivered as an array.
