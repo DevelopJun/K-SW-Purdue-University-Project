@@ -1,30 +1,10 @@
-### KSW_2022_Winter_Program
+# 📉 2021 Purdue Data Analysis Project by TEAM_eco_Avengers 📈
 
-Your README.md file must include:
-
-(1) Group members name including all Purdue students:   
-(2) Group members univ info: e.g., Purdue University  
-(3) Project title  
-(4) Research problem statement(s)  
-(5) Research novelty (Significance)  
-(6) Overview or diagram visual(s)  
-(7) Environment settings (Must be very detailed with several steps.) 
-
-Your team folder must includes:
-
-(1) Final pptx slides file  
-(2) Paper (PDF format)  
-(3) Code descriptions (Must be very detailed. Points will be awarded for elegance, coding style, and a demonstrated understanding of the practical issues. All code should be well-documented, with comments, and the structure of the code should be straightforward.)
-
-### Example:
-
-# ⚡2021 Purdue AgIoT Project by TEAM_THOMAS⚡
-<hr>
+<br> 
 
 📑 *Project Title*
         
-    Post Emergency Power Management for IoT based Precision Agriculture Irrigation System
-    Using Cost-Effective Algorithm and Serverless
+    A Study on the Relationship between Outdoor Air Public Data(ODA) and Indoor Air Measurement Data(IDA) in the United States
 
 📅 *Project Period*
 
@@ -46,9 +26,23 @@ Your team folder must includes:
 
 📖 *Considerations*
 
-    🥕Software : Develop an algorithm that can use less power or use it more efficiently.
+    💻 Software Architecture : 
+    1) Node-Red
+    It is a flow-based development tool for wiring and visualizing hardware devices as part of the Internet of Things. 
+    This program can use JavaScript language, which was used because developers who participated in this study can use JavaScript and it is convenient to extract file data in the form of JSON.
     
-    🥕Hardware : Change the system configuration so that the system itself can reduce power consumption.
+    2) Arduino Integrated development environment
+    The Arduino integrated development environment is a development environment provided to users for Arduino programming. 
+    In this study, data values were uploaded without using wireless communication in the form of LAN. When the Arduino MCU was executed, the required value was delivered to UART communication.
+    
+    3) Jupyter notebook
+    Jupiter Laptop is an open source-based web application. It was used because visualization should be performed in each unit by comparing and analyzing indoor air measurement data and outdoor air public data.
+        
+    📡 Hardware Architecture : 
+    Hardware basically used aurduino uno rev3(2) , pms 5003 (fine dust sensor), dht 11 (temperature and humidity sensor), mq2 (gas sensor), and mq131 (gas sensor). 
+    The sensor selection criteria consisted of sensors capable of extracting external air components provided by EPA, and two Arduinoes were used due to the research characteristics in which relatively many sensors were used.
+
+
 
 💡 *Novelty*
 
