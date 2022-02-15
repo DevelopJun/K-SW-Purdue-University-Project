@@ -5,8 +5,12 @@
 ## 📑 Project Title
 > **A Study on the Relationship between Outdoor Air Public Data(ODA) and Indoor Air Measurement Data(IDA) in the United States**
 
+<br/>
+
 ## 📅 Project Period
 > **10-10-2021(SUN) ~ 12-20-2021(MON)**
+
+<br/>
 
 ## 🔍 Problem Statement
  > **Air pollution, such as yellow dust and fine dust, is a problem that all countries and institutions are trying to solve in modern society.**
@@ -21,6 +25,7 @@
 >
 >**therefore, we compare major indoor air pollutants and factor data provided by the Environmental Protection Agency (EPA) with data measured directly in the actual indoor environment to see how much difference there is,between external air data provided by countries or institutions and actual indoor air data.**
 
+<br/>
 
 ## 📖 Considerations
 ### 💻 Software Architecture : 
@@ -45,6 +50,7 @@ Hardware basically used aurduino uno **rev3(2) , pms 5003 (fine dust sensor), dh
 The sensor selection criteria consisted of sensors capable of extracting external air components provided by EPA, and two Arduinoes were used due to the research characteristics in which relatively many sensors were used.
 
 
+<br/>
 
 💡 *Novelty*
 
