@@ -28,6 +28,7 @@
 <br/>
 
 ## 📖 Considerations
+
 ### 💻 Software Architecture : 
 #### 1) Node-Red
 
@@ -54,13 +55,17 @@ The sensor selection criteria consisted of sensors capable of extracting externa
 
 ## 💡 Novelty
 
-(here)
+Data comparison analysis of indoor and outdoor air data.
+
+To date, several studies and papers have measured only outdoor data or measured only indoor data to derive and analyze results. However, in this study, there is a process of comparing and analyzing actual indoor air quality data and outdoor air data provided by the state. This may seem relatively simple, but it is a study that has hardly been conducted. There is an accurate measurement goal of pollutant comparison, and it is a study in which time and place are systematically conducted.
+
+<br>
 
 
 
-----
 
-### 📋 System Overview
+## 📋 System Overview
+
  <p align="center">
    <img src="https://user-images.githubusercontent.com/63999666/154166528-e93b8a23-4c23-4725-984c-12118b8ab57a.png" width="700"alt="Image Error"/>
 </p>
@@ -73,7 +78,7 @@ The sensor selection criteria consisted of sensors capable of extracting externa
 
 <br>
 
-### 🛢 Data Structure
+## 🛢 Data Structure
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/63999666/154166751-cda74f22-55d4-4fe7-9cee-dfaab4dcb1d2.png" width="600" alt="Image Error"/>
@@ -86,10 +91,10 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
 
 <br>
 
----
+
 
  
-### ⚙ Environment Setting
+## ⚙ Environment Setting
 
    #### Software Environment Setting
     
@@ -109,21 +114,19 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
     
 
 
-----
-
+<br>
   
-### 📤 Installation
+## 📤 Installation
 
    $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
    
    $ cd Eco_Avengers
 
 
-----
+<br>
 
 
-
-### 🎅 👦 👩 Collaborator
+## 🎅 👦 👩 Collaborator
      
   #### 🎅Junho Jung
   
