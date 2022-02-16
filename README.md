@@ -1,4 +1,4 @@
-# 📉 Data Analysis Project by Eco_Avengers (2021 Purdue Univ) 📈
+# 📉 Air Quality Data Analysis Project (2021 Purdue Univ) 📈
 
 <br>
 
