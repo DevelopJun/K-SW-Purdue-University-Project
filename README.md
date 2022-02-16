@@ -68,7 +68,9 @@ The sensor selection criteria consisted of sensors capable of extracting externa
       But we want to have more novelty in power saving. So, we used serverless and FaaS which is good way to reduce idle power consumption in our system,
       that needs to reduce the time inverval between sending data to the server.
 
-🏛 *System Overview*
+<br>
+
+### 📋 System Overview
  <p align="center">
    <img src="https://user-images.githubusercontent.com/63999666/154166528-e93b8a23-4c23-4725-984c-12118b8ab57a.png" width="700"alt="Image Error"/>
 </p>
@@ -79,61 +81,66 @@ The sensor selection criteria consisted of sensors capable of extracting externa
 
 **3) Data analysis and visualization:** Both indoor air data and outdoor air data were extracted in the form of CSV files, and visualization of the extracted data was performed using the Jupyter laptop.
 
+<br>
+
+### 🛢 Data Structure
+
 <p align="center">
    <img src="https://user-images.githubusercontent.com/63999666/154166751-cda74f22-55d4-4fe7-9cee-dfaab4dcb1d2.png" width="600" alt="Image Error"/>
 </p>
 
+#### Data Base Design:
+Mysql was used as the database, and each schema was designed based on four actual measured Purdue University places. There are a total of five tables (=relations) in each schema. In each table, data tuples measured for 1 hour per 30 seconds per day were stored. The attributes were designed in total of four types: fine dust, temperature and humidity, carbon monoxide, nitrogen dioxide, and ozone.
 
-    🥕Data Acquisition: In this part, soil moisture sensors acquire soil moisture values in tomato fields. The sensor is connected to the Arduino by a wire. 
-    The soil moisture value is delivered as an integer type and 4 values are delivered as an array.
-    Data on the remaining amount of battery to operate the automatic irrigation system and the acquired crop data are collected on an Arduino connected to the sensor.
-    The sensor data collected by the Arduino is then transferred to the gateway through LoRa communication.
-    
-    🥕Central Control: This part is the main part of the project. The collected data from the Data Acquisition Unit arrives at the cloud from the gateway.
-    It stores the crop data in the database at the time that the data arrives and applies the devised algorithm.
-    The result of this algorithm, which is an irrigation command, is transmitted to the Arduino.
-    By using Node-RED in the cloud, the farmer can monitor the data through the Node-RED User Interface (UI) remotely.
-    
-    🥕Irrigation: This part receives and executes the irrigation command sent from the cloud.
-    In this part, the motor connected to the water pipe for irrigation is connected to the relay.
-    The relay connected to the Arduino receives the "turn the motor on and off" command sent from the LoRa module to execute automatic irrigation.
+__therefore, there are a total of 600 data on measured pollutants per schema. A total of four database schemas have 2,400 data__
+
+<br>
+
  
-🖥️ *Environment Setting*
+### ⚙ Environment Setting
 
-    ✔️macOS Big Sur version 11.4  
+   #### Software Environment Setting
     
-    ✔️Arduino IDE version 1.8.13 
+   ✔️macOS Big Sur version 11.5.2
     
-    ✔️Python version 3.7.3 
+   ✔️Arduino IDE version 1.8.19
+   
+   ✔️Node-RED version: v2.2.0
     
-    ✔️Arduio Uno 
+   ✔️Jupyter Notebook 3.7.9
+   
+   ✔️Python version 3.9
     
-    ✔️LoRa Module : Dragino[1]
+   #### Hardware Environment Setting
     
-    ✔️Soil Moisture Sensor version 1.2
+   ✔️Sensor : Aurduno Uno rev3, pms 5003, dht 11, mq2, mq135
+    
+<br>
+<br>
+
   
-📤 *Installation*
+### 📤 Installation
 
     $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
-    $ cd thomas
+    $ cd Eco_Avengers
 
-🎅 👦 👩 *Collaborator*
+### 🎅 👦 👩 Collaborator
      
-    🎅Junho Jung
-       -Yonsei Univeristy
-       -Major: Computer Engineering & Venture
-       -email: llovejune@yonsei.ac.kr
-       -github: https://github.com/DevelopJun
-       
-    👦DuYong Chung
-       -Yonsei Univeristy
-       -Major: Computer Engineering & Venture
-       -email: endyd4@yonsei.ac.kr
-       -github: ttps://github.com/Yondubuntu
-    
-    👩DuYong Chung
-       -Yonsei Univeristy
-       -Major:
-       -email:
-       -github: https://github.com/Maxim-afk
+   🎅Junho Jung
+      -Yonsei Univeristy
+      -Major: Computer Engineering & Venture
+      -email: llovejune@yonsei.ac.kr
+      -github: https://github.com/DevelopJun
+
+   👦DuYong Chung
+      -Yonsei Univeristy
+      -Major: Computer Engineering & Venture
+      -email: endyd4@yonsei.ac.kr
+      -github: ttps://github.com/Yondubuntu
+
+   👩DuYong Chung
+      -Yonsei Univeristy
+      -Major:
+      -email:
+      -github: https://github.com/Maxim-afk
 
