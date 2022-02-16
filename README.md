@@ -73,18 +73,11 @@ The sensor selection criteria consisted of sensors capable of extracting externa
    <img src="https://user-images.githubusercontent.com/63999666/154166528-e93b8a23-4c23-4725-984c-12118b8ab57a.png" width="700"alt="Image Error"/>
 </p>
 
-    
-    1. Tomatoes were planted in 4 areas, each with a soil moisture sensor and irrigation tube installed.
-    
-    2. The crop data is transmitted to the gateway through LoRa communication.
-    
-    3. The gateway sends the crop data to the Cloud through LoRaWAN communication.
-    
-    4. When the crop data arrives at the Cloud, store it in the database and apply the devised algorithm.
-    
-    5. The Cloud sends the irrigation command to the gateway.
-    
-    6. The irrigation command arrives at the Arduino which operates the irrigation system.
+**1) Collecting Indoor data:** Indoor air data measured pollutants such as fine dust, nitrogen dioxide (NO), carbon monoxide (CO), and ozone with sensors. The measurement devices were measured using two Arduino uno and pms 5003 (dust sensor), dht 11 (temperature and humidity sensor), mq2 (gas sensor), and mq135 (gas sensor).
+
+**2) Collecting Outdoor data:** As for indoor air measurement items, carbon monoxide CO, No2, Ozone, pm10, pm2.5 pollutants and general temperature and humidity data that can be measured by the equipped measuring device among pollutants held by the U.S. Environmental Protection Agency (EPA).
+
+**3) Data analysis and visualization:** Both indoor air data and outdoor air data were extracted in the form of CSV files, and visualization of the extracted data was performed using the Jupyter laptop.
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/63999666/154166751-cda74f22-55d4-4fe7-9cee-dfaab4dcb1d2.png" width="600" alt="Image Error"/>
