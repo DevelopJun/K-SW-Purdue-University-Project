@@ -52,21 +52,10 @@ The sensor selection criteria consisted of sensors capable of extracting externa
 
 <br/>
 
-💡 *Novelty*
+## 💡 Novelty
 
-    1. Develop the existing simple algorithm's concept!
-       => We researched about the existing smart farm system that irrigatie automatically using Fuzzy and Genetic Algorithms.
-      But these were too complicated for us and they only focused on normal situations with stable power.
-      So we researed about simple algorithm that uses only the soil moisture value as a variable.
-      We developed this algorithm by adding the remaining amount of power and the distance away from the irrigation source as a variables.
-      
-    2. Use LoRa, LoRaWAN with Serverless(FaaS)!
-       => Most smart farms have implemented wireless network using WiFi, Zigbee, and LoRaWAN to get sensor values.
-      Wi-Fi was not suitable for our project because it has more delay and more power consumption than LoRa.
-      And Zigbee, a low-power communication technology, it's not suitable for outdoor farms too, because of its limited to short communication coverage.
-      So, we decided to use LoRa and LoRaWAN.There were many related research about smart farm using LoRaWAN.
-      But we want to have more novelty in power saving. So, we used serverless and FaaS which is good way to reduce idle power consumption in our system,
-      that needs to reduce the time inverval between sending data to the server.
+(here)
+
 
 <br>
 
@@ -126,21 +115,33 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
 
 ### 🎅 👦 👩 Collaborator
      
-   🎅Junho Jung
-      -Yonsei Univeristy
-      -Major: Computer Engineering & Venture
-      -email: llovejune@yonsei.ac.kr
-      -github: https://github.com/DevelopJun
+  🎅Junho Jung
+  
+   -Yonsei Univeristy
+      
+   -Major: Computer Engineering & Venture
+      
+   -Email: llovejune@yonsei.ac.kr
+      
+   -Github: https://github.com/DevelopJun
 
-   👦DuYong Chung
-      -Yonsei Univeristy
-      -Major: Computer Engineering & Venture
-      -email: endyd4@yonsei.ac.kr
-      -github: ttps://github.com/Yondubuntu
+  👦DuYong Chung
+  
+   -Yonsei Univeristy
+   
+   -Major: Computer Engineering & Venture
+   
+   -Email: endyd4@yonsei.ac.kr
+   
+   -Github: ttps://github.com/Yondubuntu
 
-   👩DuYong Chung
-      -Yonsei Univeristy
-      -Major:
-      -email:
-      -github: https://github.com/Maxim-afk
+  👩DuYong Chung
+  
+   -Purdue Univeristy
+   
+   -Major: Cyber Security
+   
+   -email:zhan2801@purdue.edu
+   
+   -github: https://github.com/Maxim-afk
 
