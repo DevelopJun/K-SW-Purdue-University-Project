@@ -57,7 +57,8 @@ The sensor selection criteria consisted of sensors capable of extracting externa
 (here)
 
 
-<br>
+
+----
 
 ### 📋 System Overview
  <p align="center">
@@ -85,6 +86,8 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
 
 <br>
 
+---
+
  
 ### ⚙ Environment Setting
 
@@ -104,18 +107,25 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
     
    ✔️Sensor : Aurduno Uno rev3, pms 5003, dht 11, mq2, mq135
     
-<br>
-<br>
+
+
+----
 
   
 ### 📤 Installation
 
-    $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
-    $ cd Eco_Avengers
+   $ git clone https://github.com/MINJILEE-PURDUE/KSW_2021_Fall_Program.git
+   
+   $ cd Eco_Avengers
+
+
+----
+
+
 
 ### 🎅 👦 👩 Collaborator
      
-  🎅Junho Jung
+  #### 🎅Junho Jung
   
    -Yonsei Univeristy
       
@@ -125,7 +135,7 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
       
    -Github: https://github.com/DevelopJun
 
-  👦DuYong Chung
+ #### 👦DuYong Chung
   
    -Yonsei Univeristy
    
@@ -133,15 +143,15 @@ __therefore, there are a total of 600 data on measured pollutants per schema. A 
    
    -Email: endyd4@yonsei.ac.kr
    
-   -Github: ttps://github.com/Yondubuntu
+   -Github: https://github.com/Yondubuntu
 
-  👩DuYong Chung
+  #### 👩Qingyi Zhang
   
    -Purdue Univeristy
    
    -Major: Cyber Security
    
-   -email:zhan2801@purdue.edu
+   -email: zhan2801@purdue.edu
    
    -github: https://github.com/Maxim-afk
 
