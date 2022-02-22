@@ -21,8 +21,10 @@
 
 (coference paper 형식으로 작성해야함.)
 
-##### 논문 참조 사이트 
+##### 논문 작성 참조 사이트 
 - https://scholar.google.com/
+
+
 
 
 ##### IEEE guidance 
@@ -37,3 +39,6 @@
 - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002182102 (수원시 유치원 논문) 
 - https://www.sciencedirect.com/science/article/pii/S1877050914009454
 - https://ieeexplore.ieee.org/document/6461713/;jsessionid=_ELluNNSrQMOwUbdlP5kRj9C-0BD0tNtCvuJRco74nBNVIJn8R-i!-1559360914
+- - 그럼 세계적으로 통용되는 WHO 기준 ‘미세먼지’는? PM2.5 이하 분진을 가리킨다. 이게 정확히 ‘미세먼지(fine particle)’다. WHO는 PM2.5를 ‘1급 발암물질’로 규정했다.
+-  LG전자연구원 측은 “입자 측정 수치는 위치나 공간 크기 등에 따라 차이가 많다
+- https://m.khan.co.kr/national/national-general/article/201605141709001
