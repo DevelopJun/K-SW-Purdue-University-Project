@@ -42,3 +42,4 @@
 - - 그럼 세계적으로 통용되는 WHO 기준 ‘미세먼지’는? PM2.5 이하 분진을 가리킨다. 이게 정확히 ‘미세먼지(fine particle)’다. WHO는 PM2.5를 ‘1급 발암물질’로 규정했다.
 -  LG전자연구원 측은 “입자 측정 수치는 위치나 공간 크기 등에 따라 차이가 많다
 - https://m.khan.co.kr/national/national-general/article/201605141709001
+- https://m.blog.naver.com/clearchem/221481120228 (미세먼지 권고치 참조) 
